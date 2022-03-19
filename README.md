@@ -4,6 +4,7 @@ A simple App that allows a traveler to retrieve weather information of their des
 ## Tools Used
 - OpenWeather APi
 - localStorage
+- BootStrap
 
 ![image](/assets/RainorShine.png)
 
